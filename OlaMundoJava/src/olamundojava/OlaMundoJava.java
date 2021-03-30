@@ -15,8 +15,8 @@ public class OlaMundoJava {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.println("Ol·° mundo do Carlos");
+        // Branch do Rafael
+        System.out.println("Ol√° mundo do Rafael");
     }
     
 }
