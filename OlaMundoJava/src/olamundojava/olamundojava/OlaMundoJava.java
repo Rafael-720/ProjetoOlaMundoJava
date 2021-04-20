@@ -16,7 +16,9 @@ public class OlaMundoJava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Olá mundo do Carlos Lucas");
+
+        //resolvendo conflito de mesclagem
+        System.out.println("Olá mundo do Rafael e do Carlos Lucas");
     }
     
 }
